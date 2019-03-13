@@ -1,0 +1,22 @@
+{
+  "name": "flash",
+  "version": "1.0.0",
+  "description": "Flash messages to the screen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdahlke/flash.git"
+  },
+  "keywords": [
+    "flash"
+  ],
+  "author": "Michael Dahlke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdahlke/flash/issues"
+  },
+  "homepage": "https://github.com/mdahlke/flash#readme"
+}
